@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+#tx{
+    width: 100%;
+    border: 1px solid;
+}
+
+.btn{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.btn-secondary{
+    display: none;
+}
+
+.btn-warning{
+    display: none;
+}
